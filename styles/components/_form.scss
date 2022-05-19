@@ -1,0 +1,20 @@
+/* Form */
+.form-control {
+  height: 50px !important;
+  border: 1px solid #5AB51E !important;
+}
+
+.form-control:focus {
+  outline: 0;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+  border-color: #5AB51E;
+}
+
+textarea.form-control {
+  height: 100px!important;
+}
+
+.badge-primary {
+  background: #5AB51E;
+}

@@ -1,0 +1,26 @@
+/* Product List page */
+ 
+.filter-option,
+.active-option {
+  padding: 10px 20px;
+  min-width: 50px;
+  border-radius: 2rem;
+}
+.brand-filter {
+  display: flex;
+  margin: 15px;
+}
+#brand-input { 
+  // margin: 0 10px; 
+  padding: 0.8rem 1.6rem;
+}
+
+.form-select {
+  font-size: 14px;
+  font-family: "Quicksand", sans-serif;
+  color: #333333 !important;
+  padding: 13px 40px !important;
+  border-radius: 35px !important;
+  font-weight: 500 !important;
+  border: 1px solid #5AB51E !important;
+}

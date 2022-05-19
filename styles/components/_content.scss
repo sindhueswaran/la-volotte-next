@@ -1,0 +1,92 @@
+
+/* content style */
+.content * {
+    margin-bottom: 20px;
+  }
+  
+  .content a {
+    text-decoration: underline;
+  }
+  
+  .content h1,
+  .content h2,
+  .content h3,
+  .content h4,
+  .content h5,
+  .content h6 {
+    margin-bottom: 10px;
+  }
+  
+  .content ol {
+    padding-left: 20px;
+  }
+  
+  .content ul {
+    padding-left: 0;
+  }
+  
+  .content ul li {
+    position: relative;
+    padding-left: 30px;
+    margin-bottom: 10px;
+    list-style-type: none;
+  }
+  
+  .content ul li::before {
+    position: absolute;
+    left: 0;
+    top: 0.4rem;
+    display: block;
+    background: url('/images/li-icon.svg')no-repeat;
+    content: " ";  
+    width: 1rem;
+    height: 1rem; 
+    -webkit-transition: .3s ease;
+    transition: .3s ease;
+  }
+  
+  .content table {
+    text-align: left;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    border: 1px solid #dee2e6;
+  }
+  
+  .content table th,
+  .content table td {
+    padding: .75rem;
+    vertical-align: top;
+    border: 1px solid #dee2e6;
+  }
+  
+  .content table thead {
+    background: #dadada;
+  }
+  
+  .content table tbody {
+    background: #dfdfdf;
+  }
+  
+  .content table tbody td {
+    text-align: left !important;
+  }
+  
+  .content blockquote {
+    border-left: 1px solid #5AB51E;
+    padding: 20px;
+  }
+  
+  .content blockquote p {
+    margin-bottom: 0;
+    color: #333333;
+    font-style: italic;
+    font-size: 22px;
+    font-weight: 500;
+  }
+  
+  .content pre {
+    padding: 10px 20px;
+    background: #dfdfdf;
+  }
+  

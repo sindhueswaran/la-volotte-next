@@ -1,0 +1,275 @@
+// @use './components/about';
+// @use './components/contact';
+// @use './components/footer';
+// @use './components/hero';
+@use './components/header';
+@use './components/cta';
+@use './components/product-list';
+@use './components/product-item';
+@use './components/form';
+@use './components/btn';
+@use './components/blog';
+@use './components/content';
+@use './components/margins';
+@use './custom';
+
+ 
+@import url("https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700&display=swap");
+
+
+:root {
+  --lv-primary: hsl(96, 72%, 41%);
+  --lv-secondary: hsl(96, 71%, 26%);
+  --lv-bg-menu: hsl(0, 0%, 100%);
+  --lv-bg-secondary: hsl(0, 0%, 75%);
+  --lv-bg-form: hsl(0, 0%, 90%);
+  --lv-bg-footer: hsl(0, 0%, 25%);
+  --lv-border: hsl(0, 0%, 82%);
+  --lv-font-headings:hsl(0, 0%, 13%);
+  --lv-font-paragraph: hsl(0, 0%, 20%);
+  // --lv-font-sans-serif: Roboto-Regular;
+  // --lv-font-serif: LibreBaskerville-Bold;
+  --lv-gradient: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0)
+  );
+}
+
+
+body {
+  line-height: 1.4;
+  font-family: "Quicksand", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  font-size: 2rem;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #222222;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+p, .paragraph {
+  font-weight: 400;
+  color: #333333;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  font-family: "Quicksand", sans-serif;
+}
+
+h1, .h1 { 
+  font-size: 3.5rem;
+}
+
+h2, .h2 { 
+  font-size: 3rem;
+}
+
+h3, .h3 { 
+  font-size: 2.6rem;
+}
+
+h4, .h4 { 
+  font-size: 2.2rem;
+}
+
+h5, .h5 {
+  font-size: 1.8rem;
+}
+
+h6, .h6 {
+  font-size: 1.4rem;
+}
+
+.text-accent{
+  color: #5AB51E !important;
+}
+
+.social-icons a{
+  color: #5AB51E !important;
+  font-size: 1.6rem;
+  & :hover{
+    color: #397213 !important;
+    -webkit-transition: .2s ease;
+    transition: .2s ease;
+  }
+}
+
+.search{
+  border-color: #5AB51E !important;
+}
+ 
+a,
+a:hover,
+a:focus {
+  text-decoration: none !important;
+  color: #000!important;
+}
+
+a,
+button,
+select {
+  cursor: pointer;
+  -webkit-transition: .2s ease;
+  transition: .2s ease;
+}
+
+a:focus,
+button:focus,
+select:focus {
+  outline: 0;
+}
+
+a:hover {
+  color: #5AB51E !important;
+}
+
+.slick-slide {
+  outline: 0;
+}
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.section-sm {
+  padding-top: 5px;
+  padding-bottom: 50px;
+}
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+.border-primary {
+  border-color: #D1D1D1 !important;
+}
+
+/* overlay */
+.overlay {
+  position: relative;
+}
+
+.overlay::before {
+  position: absolute;
+  content: '';
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: #000;
+  opacity: .5;
+}
+
+.outline-0 {
+  outline: 0 !important;
+}
+
+.d-unset {
+  display: unset !important;
+}
+
+.bg-primary-lv {
+  background: #68d421 !important;
+}
+
+.bg-gradient-lv {
+  background: linear-gradient(27deg, #59b51e 0%, #95d239 100%) !important;
+  z-index: 20;
+}
+
+.hover-shadow {
+  -webkit-transition: .2s ease;
+  transition: .2s ease;
+}
+
+.hover-shadow:hover {
+  -webkit-box-shadow: 0 8px 10px rgba(33, 33, 33, 0.2) !important;
+          box-shadow: 0 8px 10px rgba(33, 33, 33, 0.2) !important;
+}
+
+.lead.text-primary {
+  color: #5AB51E!important;
+}
+
+.text-primary {
+  color: #5AB51E!important;
+}
+
+.text-color {
+  color: #333333;
+}
+
+.img-border {
+  position: relative;
+  display: inline-block;
+}
+
+.img-border::before {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  border: 1px solid #5AB51E;
+  top: 5%;
+  left: 5%;
+  border-radius: inherit;
+  z-index: -1;
+}
+
+.content-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+
+/* gallery */
+.gallery-slider {
+  margin-bottom: 80px; 
+}
+
+.gallery-slider .slick-slide {
+  margin-top: 80px; 
+}
+  
+.slick-prev::before, .slick-next::before{
+  font-family: "themify";
+  content: "\e67f";
+}
+ 
+.quoted {
+  position: relative;
+  padding: 0 10px;
+}
+
+.quoted::before {
+  position: absolute;
+  font-family: "themify";
+  content: "\e67f";
+  left: -10px;
+  top: -5px;
+}
+
+.quoted::after {
+  position: absolute;
+  font-family: "themify";
+  content: "\e67e";
+  right: -10px;
+  top: -5px;
+}
+
+
+.breadcrumb-item{
+  text-transform: uppercase;
+}
+
+ 
+ 
