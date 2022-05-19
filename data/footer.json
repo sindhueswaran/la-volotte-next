@@ -1,0 +1,18 @@
+{
+    "footer": {
+      "title": "La Volotte",
+      "logo": "/images/lavolottelogo.png",
+      "home": "Home",
+      "description": "Die bezaubernde, alte Ladentür öffnet sich zu ‘La Volotte’ ,und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!",
+      "gmapAPI": "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places",
+      "mapLatitude": "50.7716545",
+      "mapLongitude": "6.0767233",
+      "mapMarker": "/images/marker.png",
+      "googleAnalitycsID": "",
+      "mobile": "+49 (0)241 47587794",
+      "email": "wolle@la-volotte.de",
+      "location": "Jakobstrasse 107,  ",
+      "location1": "D-52064 Aachen",
+      "copyright": "| La Volotte 2020 © |"
+    }
+  }

@@ -1,0 +1,64 @@
+{
+  "banner": { 
+    "title": " LV",
+    "content": "Die bezaubernde, alte Ladentür öffnet sich zu 'La Volotte', und ein charmantes, kleines Geschäft mit einer großen Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern lädt die Kundschaft zum Schwelgen und Finden ein!",
+    "content1": "Barbara Münz und ihr Team bieten mit Freude und Leidenschaft neben den schönen Garnen und Stricknadeln in diversen Workshops gerne auch  Anleitung und kompetente Beratung an. Regelmäßig am ersten Samstag im Monat findet in gemütlicher Runde bei unserem beliebten Strickcafé ein reger Austausch statt!",
+    "content2": "Wenn Sie nicht selbst stricken, können Sie aus unseren Garnen auch individuelle Anfertigungen in Auftrag  geben, sprechen Sie uns an!",
+    "image": "/images/ybimladaen1.jpg",
+    "button": { 
+      "label": "All Products",
+      "link": "products"
+    }
+  },
+  "about": { 
+    "title": "About Our Product",
+    "content": "Im hinteren Raum befindet sich unser Atelier, wo das Strickcafe stattfindet und mit Zeit und Muße in Strickbüchern geschmökert werden kann. Hier findet sich Inspiration in Hülle und Fülle!",
+    "content1": "Barbara Münz hat in vielen Workshops die alte Handwerkstechnik des Filzens weitergegeben, viele Jahre auf verschiedenen Kunsthandwerkermärkten verkauft und begleitet nun Frauen und Kinder in Indien beim Erlernen dieser Technik und unterstützt so deren Möglichkeiten, für den eigenen Lebensunterhalt zu sorgen. Neben Filzworkshops hat sie an verschiedenen Orten auch Stricken und Häkeln unterrichtet.  Ganz aktuell stricken verschiedene Frauengruppen Mützen, Westen, Schals und Socken für Schulen in Rajasthan und können so ihren Lebensunterhalt auch in schwierigen Zeiten bestreiten.   Auf www.joiningthreads.com finden sich viele Fotos und Berichte sowie auch die Möglichkeit, uns zu unterstützen.",
+    "content2": "Unser „Verein zur Förderung des kreativen Glücks“ hat sich Anfang 2020 gegründet und möchte durch Kursangebote, Projekte in Schulen und im Strafvollzug  einen Beitrag hier vor Ort leisten sowie die Projekte in Indien unterstützen.",
+    "image": "/images/street1.jpg"
+  },
+  "event": { 
+    "title": "Strickcafe",
+    "content": "Im hinteren Raum befindet sich unser Atelier, wo das Strickcafe stattfindet und mit Zeit und Muße in Strickbüchern geschmökert werden kann. Hier findet sich Inspiration in Hülle und Fülle!",
+    "image": "",
+    "overlayImage": "/images/lvoverlay-1.png",
+    "button": {
+      "label": "Alle Produkte",
+      "link": "aktuelles"
+    }
+  },
+  "cta": { 
+    "title": "La Volotte",
+    "content": "Wir bieten eine große Auswahl an ausgesuchten, hochwertigen Naturgarnen aus verschiedenen Ländern!",
+    "image": "",
+    "overlayImage": "/images/lvoverlay-1.png",
+    "button": {
+      "label": "Alle Produkte",
+      "link": "products"
+    }
+  },
+  "products": { 
+    "title": "Produkte"
+  },
+  "ladengallery": { 
+    "title": "Galerie",
+    "gallItem": [
+      {
+        "name": "La Volotte",
+        "image": "/images/gallery/laden1.jpg"
+      },
+      {
+        "name": "La Volotte",
+        "image": "/images/gallery/laden2.jpg"
+      },
+      {
+        "name": "La Volotte",
+        "image": "/images/gallery/laden3.jpg"
+      },
+      {
+        "name": "La Volotte",
+        "image": "/images/gallery/laden4.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+    "menu": {
+      "main": [
+        {
+          "name": "Home",
+          "URL": "/",
+          "weight": 1
+        },
+        {
+          "name": "Produkte",
+          "URL": "/products",
+          "weight": 1
+        },
+        {
+          "name": "Aktuelles",
+          "URL": "/aktuelles",
+          "weight": 3
+        },
+        {
+          "name": "FAQ",
+          "URL": "/faq",
+          "weight": 4
+        },
+        {
+          "name": "Kontakt",
+          "URL": "/contact",
+          "weight": 5
+        }
+      ],
+      "footer": [
+        {
+          "name": "Produkte",
+          "URL": "/products",
+          "weight": 1
+        },
+        {
+          "name": "FAQ",
+          "URL": "/faq",
+          "weight": 2
+        },
+        {
+          "name": "Impressum",
+          "URL": "/impressum",
+          "weight": 4
+        },
+        {
+          "name": "Datenschutz",
+          "URL": "/datenschutz",
+          "weight": 5
+        },
+        {
+          "name": "AGB",
+          "URL": "/agb",
+          "weight": 6
+        },
+        {
+          "name": "Widerrufsrecht ",
+          "URL": "/widerrufsrecht",
+          "weight": 7
+        },
+        {
+          "name": "Versandbedingungen",
+          "URL": "/versand",
+          "weight": 8
+        },
+        {
+          "name": "Kontakt",
+          "URL": "/contact",
+          "weight": 9
+        }
+      ]
+    }  
+  }

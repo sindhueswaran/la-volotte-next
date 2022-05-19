@@ -1,0 +1,298 @@
+{
+    "productsearch": {
+      "categories": [
+        {
+          "name": "Alle",
+          "URL": " ",
+          "weight": 1
+        },
+        {
+          "name": "Atelier Zitron",
+          "URL": "atelier-zitron",
+          "weight": 2
+        },
+        {
+          "name": "BC-Garn",
+          "URL": "bc-garn",
+          "weight": 3
+        },
+        {
+          "name": "Isager",
+          "URL": "isager",
+          "weight": 4
+        },
+        {
+          "name": "Manos del Uruguay",
+          "URL": "manos-del-uruguay",
+          "weight": 5
+        },
+        {
+          "name": "Midara",
+          "URL": "midara",
+          "weight": 6
+        },
+        {
+          "name": "Mondial",
+          "URL": "mondial",
+          "weight": 7
+        },
+        {
+          "name": "Schoppel",
+          "URL": "schoppel",
+          "weight": 8
+        },
+        {
+          "name": "Seehawer & Siebert-Naturfasern",
+          "URL": "seehawer-siebert-naturfasern",
+          "weight": 9
+        },
+        {
+          "name": "The Fibre Company",
+          "URL": "the-fibre-company",
+          "weight": 10
+        },
+        {
+          "name": "Franziska Uhl",
+          "URL": "franziska-uhl",
+          "weight": 11
+        },
+        {
+          "name": "Erika Knight",
+          "URL": "erika-knight",
+          "weight": 12
+        }
+      ],
+      "tags": [
+        {
+          "name": "Alle",
+          "URL": " ",
+          "weight": 1
+        },
+        {
+          "name": "Polyamid",
+          "URL": "polyamid",
+          "weight": 2
+        },
+        {
+          "name": "Alpaka",
+          "URL": "alpaka",
+          "weight": 4
+        },
+        {
+          "name": "Bambus",
+          "URL": "bambus",
+          "weight": 5
+        },
+        {
+          "name": "Baumwolle",
+          "URL": "baumwolle",
+          "weight": 6
+        },
+        {
+          "name": "Bouretteseide",
+          "URL": "bouretteseide",
+          "weight": 8
+        },
+        {
+          "name": "Cashmere",
+          "URL": "cashmere",
+          "weight": 9
+        },
+        {
+          "name": "Hanf",
+          "URL": "hanf",
+          "weight": 10
+        },
+        {
+          "name": "Leinen",
+          "URL": "leinen",
+          "weight": 12
+        },
+        {
+          "name": "Maulbeerseide",
+          "URL": "maulbeerseide",
+          "weight": 14
+        },
+        {
+          "name": "Schurwolle (GOTS)",
+          "URL": "schurwolle-gots",
+          "weight": 15
+        },
+        {
+          "name": "Mohair",
+          "URL": "mohair",
+          "weight": 16
+        },
+        {
+          "name": "Baumwolle, ökologisch",
+          "URL": "baumwolle-oeko",
+          "weight": 17
+        },
+        {
+          "name": "Ramie",
+          "URL": "ramie",
+          "weight": 18
+        },
+        {
+          "name": "Baumwolle (Recycling)",
+          "URL": "baumwolle-recycling",
+          "weight": 19
+        },
+        {
+          "name": "Schurwolle",
+          "URL": "schurwolle",
+          "weight": 20
+        },
+        {
+          "name": "Seide",
+          "URL": "seide",
+          "weight": 21
+        },
+        {
+          "name": "Tencel",
+          "URL": "tencel",
+          "weight": 22
+        },
+        {
+          "name": "Tussahseide",
+          "URL": "tussahseide",
+          "weight": 23
+        },
+        {
+          "name": "Viscose",
+          "URL": "viscose",
+          "weight": 24
+        },
+        {
+          "name": "Yak",
+          "URL": "yak",
+          "weight": 25
+        },
+        {
+          "name": "Baumwolle (GOTS)",
+          "URL": "baumwolle-gots",
+          "weight": 25
+        },
+        {
+          "name": "Baumwolle(KbA)",
+          "URL": "baumwolle-kba",
+          "weight": 25
+        }
+      ],
+      "nadels": [
+      {
+        "name": "Alle",
+        "URL": " ",
+        "weight": 0
+      }, 
+      {
+        "name": "1,0",
+        "URL": "1,0",
+        "weight": 1
+      },
+      {
+        "name": "1,5",
+        "URL": "1,5",
+        "weight": 2
+      },
+      {"name": "2,0",
+        "URL": "2,0",
+        "weight": 3
+      },
+      {
+        "name": "2,5",
+        "URL": "2,5",
+        "weight": 4
+      },
+      {
+        "name": "3,0",
+        "URL": "3,0",
+        "weight": 5
+      },
+      {
+        "name": "3,5",
+        "URL": "3,5",
+        "weight": 6
+      },
+      {
+        "name": "4,0",
+        "URL": "4,0",
+        "weight": 7
+      },
+      {
+        "name": "4,5",
+        "URL": "4,5",
+        "weight": 8
+      },
+      {
+        "name": "5,0",
+        "URL": "5,0",
+        "weight": 9
+      },
+      {
+        "name": "5,5",
+        "URL": "5,5",
+        "weight": 10
+      },
+      {
+        "name": "6,0",
+        "URL": "6,0",
+        "weight": 11
+      },
+      {
+        "name": "6,5",
+        "URL": "6,5",
+        "weight": 12
+      },
+      {
+        "name": "7,0",
+        "URL": "7,0",
+        "weight": 13
+      },
+      {
+        "name": "7,5",
+        "URL": "7,5",
+        "weight": 14
+      },
+      {
+        "name": "8,0",
+        "URL": "8,0",
+        "weight": 15
+      },
+      {
+        "name": "9,0",
+        "URL": "9,0",
+        "weight": 16
+      },
+      {
+        "name": "10,0",
+        "URL": "10,0",
+        "weight": 17
+      },
+      {"name": "11,0",
+        "URL": "11,0",
+        "weight": 18
+      },
+      {
+        "name": "12,0",
+        "URL": "12,0",
+        "weight": 19
+      },
+      {
+        "name": "13,0",
+        "URL": "13,0",
+        "weight": 20
+      },
+      {
+        "name": "14,0",
+        "URL": "14,0",
+        "weight": 21
+      },
+      {
+        "name": "15,0",
+        "URL": "15,0",
+        "weight": 22
+      }
+      ]
+    }
+  }

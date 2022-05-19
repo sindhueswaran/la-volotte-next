@@ -1,0 +1,38 @@
+{
+  "contact": { 
+    "office": {
+      "title": "La Volotte",
+      "content": "Wolle, Filz und Glanz",
+      "mobile": "+49 (0)241 47587794",
+      "email": "wolle@la-volotte.de",
+      "location": "Jakobstrasse 107,  ",
+      "location1": "D-52064 Aachen"
+    },
+    "opennigHour": {
+      "title": "Öffnungszeiten",
+      "dayTimeList": [
+        {
+          "dayTime": "Montag: geschlossen"
+        },
+        {
+          "dayTime": "Dienstag: geschlossen"
+        },
+        {
+          "dayTime": "Mittwoch: 11:00 – 15:00 Uhr"
+        },
+        {
+          "dayTime": "Donnerstag: 15:00 – 18:00 Uhr"
+        },
+        {
+          "dayTime": "Freitag: 15:00 – 18:00 Uhr"
+        },
+        {
+          "dayTime": "Samstag: 11:00 – 15:00 Uhr"
+        },
+        {
+          "dayTime": "Sonntag: geschlossen"
+        }
+      ]
+    }
+  }
+}

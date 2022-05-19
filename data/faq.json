@@ -1,0 +1,28 @@
+{
+  "faqItem": [
+    {
+      "title": "Wie lange dauert meine Bestellung?",
+      "content": "Sofern das bestellte Garn lieferbar ist, wird die Ware nach Zahlungseingang verschickt."
+    },
+    {
+      "title": "Wie kann ich bezahlen?",
+      "content": "Die Rechnung wird per Mail verschickt und kann dann direkt per Überweisung bezahlt werden. Sollte ein gewünschter Artikel nicht lieferbar sein, wird dies mitgeteilt, und der Artikel kann zu gegebener Zeit neu bestellt werden."
+    },
+    {
+      "title": "Kann ich Artikel zurücksenden?",
+      "content": "Ja, eine Rücksendung ist möglich, erfolgt aber auf eigene Kosten. Es gibt keinen Portogutschein für Retouren."
+    },
+    {
+      "title": "Ist telefonische Beratung möglich?",
+      "content": "Ja, grundsätzlich ist dies während der Öffnungszeiten möglich. Eine mögliche Videoberatung bitte per Mail anfragen."
+    },
+    {
+      "title": "Wie hoch sind die Portokosten?",
+      "content": "Der Versand mit DHL wird bis 2 kg pauschal mit €4,50 berechnet. Darüber werden die aktuellen Portokosten fällig. Ab einem Warenwert von € 80,00 erfolgt der Versand gratis."
+    },
+    {
+      "title": "Ist eine Abholung vor Ort möglich?",
+      "content": "Ja, die Abholung vor Ort ist grundsätzlich zu den Öffnungszeiten möglich. Es werden dann keine Portogebühren fällig. Bei Selbstabholung bitte den Gutschein ABHOLUNG verwenden."
+    }
+  ]
+}
